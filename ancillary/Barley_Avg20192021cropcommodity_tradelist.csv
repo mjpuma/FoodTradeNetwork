@@ -1,0 +1,9 @@
+﻿cropid,cropname,primary(1)_secondary(2)_feed(3),Edible_(1 yes)_(0isno)_(2isnonnutritinoal),ProductionL,TradeL,FBS ID,FBS name,group,kcal/ton,Protein(g/ton),Fat(g/ton),Group,Groupnum
+44,Barley,1,1,1,1,NA,Barley,Cereals,3320000,120000,18000,1 - CEREALS AND CEREAL PRODUCTS,1
+45,Pot Barley,2,1,0,1,NA,Pot Barley,Cereals,3480000,96000,11000,1 - CEREALS AND CEREAL PRODUCTS,1
+46,Barley Pearled,2,1,0,1,NA,Barley Pearled,Cereals,3460000,90000,14000,1 - CEREALS AND CEREAL PRODUCTS,1
+47,Bran of Barley,2,1,0,1,NA,Bran of Barley,Cereals,0,0,0,1 - CEREALS AND CEREAL PRODUCTS,1
+48,Barley Flour and Grits,2,1,0,1,NA,Barley Flour and Grits,Cereals,3430000,92000,17000,1 - CEREALS AND CEREAL PRODUCTS,1
+49,Malt,2,1,0,1,NA,Malt,Cereals,3680000,131000,19000,1 - CEREALS AND CEREAL PRODUCTS,1
+50,Malt Extract,2,1,0,1,NA,Malt Extract,Cereals,3670000,60000,0,1 - CEREALS AND CEREAL PRODUCTS,1
+51,Beer of Barley,2,1,0,1,NA,Beer of Barley,Cereals,490000,5000,0,2 - CEREALS AND CEREAL PRODUCTS,1

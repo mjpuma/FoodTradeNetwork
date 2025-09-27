@@ -1,0 +1,4 @@
+"reporter","partner","cropid","element","year","value","WF_Crop","ReporterISO3","PartnerISO3","FAO Commodity","MIRCA Crop Categories","Extraction_Rate","value_primary","Water_Type","WaterFootprint_km3_per_year","Production_kg","flow_1","intensity_L_per_kg","flow_2"
+"231","110","56","Export Quantity",1998,14014029,"Maize","USA","JPN","Maize",2,1,14014029000,"Blue_Irrigated",23.1233918114601,277266498200,1.16873796700248,83.3977128920226,1.16873796700248
+"231","110","56","Export Quantity",1998,14014029,"Maize","USA","JPN","Maize",2,1,14014029000,"Green_Irrigated",13.9082343163475,277266498200,0.702971330158665,50.1619719895445,0.702971330158665
+"231","110","56","Export Quantity",1998,14014029,"Maize","USA","JPN","Maize",2,1,14014029000,"Green_Rainfed",164.419441816508,277266498200,8.31033983816641,593.001472893085,8.31033983816641

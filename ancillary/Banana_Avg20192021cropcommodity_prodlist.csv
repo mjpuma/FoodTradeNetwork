@@ -1,0 +1,2 @@
+cropid,cropname,primary(1)_secondary(2)_feed(3),Edible_(1 yes)_(0isno)_(2isnonnutritinoal),ProductionL,TradeL,FBS ID,FBS name,group,kcal/ton,Protein(g/ton),Fat(g/ton),Group,Groupnum,element
+486,Banana,1,1,1,1,9999,Banana,Cereals,600000,70000,3000,NA,NA,Production

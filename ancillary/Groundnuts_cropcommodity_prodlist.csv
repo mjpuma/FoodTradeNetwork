@@ -1,0 +1,7 @@
+cropid,cropname,primary(1)_secondary(2)_feed(3),Edible_(1 yes)_(0isno)_(2isnonnutritinoal),ProductionL,TradeL,FBS ID,FBS name,group,kcal/ton,Protein(g/ton),Fat(g/ton),Group,Groupnum
+242,"Groundnuts, in shell",1,1,1,1,9999,"Groundnuts, in shell",NA,4140000,187000,359000,NA,NA
+243,"Groundnuts, Shelled",1,1,1,1,9999,"Groundnuts, Shelled",NA,5670000,257000,492000,NA,NA
+244,Oil of Groundnuts,2,1,1,1,9999,Oil of Groundnuts,NA,8840000,0,1000000,NA,NA
+245,Cake of Groundnuts,2,1,1,1,9999,Cake of Groundnuts,NA,3630000,417000,76000,NA,NA
+246,Prepared Groundnuts,2,1,1,1,9999,Prepared Groundnuts,NA,5800000,268000,492000,NA,NA
+247,Peanut Butter,2,1,1,1,9999,Peanut Butter,NA,5890000,243000,500000,NA,NA

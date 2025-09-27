@@ -1,0 +1,37 @@
+"WF_Crop","Water_Type","n_nodes","n_edges","total_volume_km3","density","reciprocity","transitivity","mean_degree","centralization","clustering_coef","avg_path_length"
+"Groundnut","Blue_Irrigated",160,1616,2.141,0.064,0.089,0.175,NA,0.863,0.175,2.87
+"Maize","Blue_Irrigated",184,4133,27.063,0.123,0.286,0.277,NA,1.789,0.277,2.326
+"Pulses","Blue_Irrigated",189,10148,7.712,0.286,0.275,0.36,NA,3.213,0.36,2.094
+"Rapeseed","Blue_Irrigated",91,1201,2.218,0.147,0.318,0.353,NA,1.11,0.353,2.198
+"Rice","Blue_Irrigated",141,784,4.203,0.04,0.173,0.162,NA,0.489,0.162,3.17
+"Soyabean","Blue_Irrigated",149,1760,17.466,0.08,0.22,0.27,NA,1.045,0.27,2.613
+"Sugar","Blue_Irrigated",69,210,0.001,0.045,0.038,0.105,NA,0.268,0.105,2.264
+"Sunflower","Blue_Irrigated",146,2272,0.72,0.107,0.268,0.322,NA,0.996,0.322,2.433
+"Temperate Cereals","Blue_Irrigated",182,6911,41.34,0.21,0.247,0.298,NA,2.303,0.298,2.279
+"Temperate Roots","Blue_Irrigated",194,4387,0.746,0.117,0.218,0.31,NA,1.63,0.31,2.597
+"Tropical Cereals","Blue_Irrigated",158,1810,8.771,0.073,0.12,0.201,NA,1.09,0.201,3.07
+"Tropical Roots","Blue_Irrigated",105,577,0.022,0.053,0.024,0.204,NA,0.277,0.204,3.449
+"Groundnut","Green_Irrigated",160,1616,0.93,0.064,0.089,0.175,NA,0.863,0.175,2.87
+"Maize","Green_Irrigated",184,4133,16.378,0.123,0.286,0.277,NA,1.789,0.277,2.326
+"Pulses","Green_Irrigated",189,10148,2.653,0.286,0.275,0.36,NA,3.213,0.36,2.094
+"Rapeseed","Green_Irrigated",91,1201,0.832,0.147,0.318,0.353,NA,1.11,0.353,2.198
+"Rice","Green_Irrigated",141,784,2.404,0.04,0.173,0.162,NA,0.489,0.162,3.17
+"Soyabean","Green_Irrigated",149,1760,15.934,0.08,0.22,0.27,NA,1.045,0.27,2.613
+"Sugar","Green_Irrigated",69,210,0.001,0.045,0.038,0.105,NA,0.268,0.105,2.264
+"Sunflower","Green_Irrigated",146,2272,0.403,0.107,0.268,0.322,NA,0.996,0.322,2.433
+"Temperate Cereals","Green_Irrigated",182,6911,18.078,0.21,0.247,0.298,NA,2.303,0.298,2.279
+"Temperate Roots","Green_Irrigated",194,4387,0.252,0.117,0.218,0.31,NA,1.63,0.31,2.597
+"Tropical Cereals","Green_Irrigated",158,1810,4.581,0.073,0.12,0.201,NA,1.09,0.201,3.07
+"Tropical Roots","Green_Irrigated",105,577,0.008,0.053,0.024,0.204,NA,0.277,0.204,3.449
+"Groundnut","Green_Rainfed",161,1624,5.983,0.063,0.089,0.175,NA,0.858,0.175,2.868
+"Maize","Green_Rainfed",184,4136,229.217,0.123,0.286,0.277,NA,1.789,0.277,2.331
+"Pulses","Green_Rainfed",189,10243,63.313,0.288,0.28,0.361,NA,3.229,0.361,2.106
+"Rapeseed","Green_Rainfed",91,1223,69.329,0.149,0.334,0.36,NA,1.141,0.36,2.214
+"Rice","Green_Rainfed",141,785,2.509,0.04,0.176,0.162,NA,0.492,0.162,3.343
+"Soyabean","Green_Rainfed",150,1774,287.556,0.079,0.223,0.271,NA,1.038,0.271,2.614
+"Sugar","Green_Rainfed",71,211,0.016,0.042,0.038,0.105,NA,0.261,0.105,2.261
+"Sunflower","Green_Rainfed",146,2272,19.053,0.107,0.268,0.322,NA,0.996,0.322,2.433
+"Temperate Cereals","Green_Rainfed",182,7126,644.926,0.216,0.267,0.306,NA,2.321,0.306,2.276
+"Temperate Roots","Green_Rainfed",194,4499,3.088,0.12,0.227,0.321,NA,1.642,0.321,2.598
+"Tropical Cereals","Green_Rainfed",158,1810,39.403,0.073,0.12,0.201,NA,1.09,0.201,3.07
+"Tropical Roots","Green_Rainfed",108,603,0.088,0.052,0.033,0.209,NA,0.287,0.209,3.413

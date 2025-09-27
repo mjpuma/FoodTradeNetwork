@@ -1,0 +1,55 @@
+R version 4.3.0 (2023-04-21)
+Platform: aarch64-apple-darwin20 (64-bit)
+Running under: macOS 15.2
+
+Matrix products: default
+BLAS:   /System/Library/Frameworks/Accelerate.framework/Versions/A/Frameworks/vecLib.framework/Versions/A/libBLAS.dylib 
+LAPACK: /Library/Frameworks/R.framework/Versions/4.3-arm64/Resources/lib/libRlapack.dylib;  LAPACK version 3.11.0
+
+locale:
+[1] en_US.UTF-8/en_US.UTF-8/en_US.UTF-8/C/en_US.UTF-8/en_US.UTF-8
+
+time zone: America/New_York
+tzcode source: internal
+
+attached base packages:
+[1] grid      stats     graphics  grDevices utils     datasets  methods  
+[8] base     
+
+other attached packages:
+ [1] rstudioapi_0.14         gridExtra_2.3           lubridate_1.9.2        
+ [4] forcats_1.0.0           purrr_1.0.1             readr_2.1.4            
+ [7] tidyverse_2.0.0         openxlsx_4.2.7.1        tidygraph_1.2.3        
+[10] ggraph_2.1.0            rlang_1.1.1             htmlwidgets_1.6.2      
+[13] circlize_0.4.15         tibble_3.2.1            networkD3_0.4          
+[16] ggpubr_0.6.0            FAOSTAT_2.4.0           RColorBrewer_1.1-3     
+[19] rworldmap_1.3-6         sp_1.6-0                igraph_1.4.2           
+[22] viridis_0.6.3           viridisLite_0.4.2       sf_1.0-12              
+[25] rnaturalearthdata_0.1.0 rnaturalearth_0.3.2     ggplot2_3.4.2          
+[28] stringr_1.5.0           tidyr_1.3.1             dplyr_1.1.4            
+[31] readxl_1.4.3           
+
+loaded via a namespace (and not attached):
+ [1] tidyselect_1.2.0    farver_2.1.1        fields_14.1        
+ [4] fastmap_1.1.1       tweenr_2.0.2        digest_0.6.31      
+ [7] dotCall64_1.0-2     timechange_0.2.0    lifecycle_1.0.3    
+[10] magrittr_2.0.3      compiler_4.3.0      tools_4.3.0        
+[13] utf8_1.2.3          data.table_1.14.8   ggsignif_0.6.4     
+[16] labeling_0.4.2      graphlayouts_1.0.0  classInt_0.4-9     
+[19] plyr_1.8.8          abind_1.4-5         KernSmooth_2.23-20 
+[22] withr_2.5.0         foreign_0.8-84      polyclip_1.10-4    
+[25] fansi_1.0.4         e1071_1.7-13        colorspace_2.1-0   
+[28] scales_1.2.1        MASS_7.3-58.4       cli_3.6.1          
+[31] ragg_1.2.5          generics_0.1.3      tzdb_0.4.0         
+[34] httr_1.4.6          DBI_1.1.3           ggforce_0.4.1      
+[37] proxy_0.4-27        maps_3.4.1          cellranger_1.1.0   
+[40] vctrs_0.6.5         jsonlite_1.8.4      carData_3.0-5      
+[43] car_3.1-2           hms_1.1.3           rstatix_0.7.2      
+[46] ggrepel_0.9.3       systemfonts_1.0.4   maptools_1.1-6     
+[49] units_0.8-2         glue_1.6.2          spam_2.9-1         
+[52] RJSONIO_1.3-1.9     stringi_1.7.12      gtable_0.3.3       
+[55] shape_1.4.6         munsell_0.5.0       pillar_1.9.0       
+[58] htmltools_0.5.5     R6_2.5.1            textshaping_0.3.6  
+[61] lattice_0.21-8      backports_1.4.1     broom_1.0.4        
+[64] class_7.3-21        zip_2.3.1           Rcpp_1.0.10        
+[67] pkgconfig_2.0.3     GlobalOptions_0.1.2

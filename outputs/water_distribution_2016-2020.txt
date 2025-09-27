@@ -1,0 +1,40 @@
+==============================================
+Water Distribution Analysis - 2016-2020 
+==============================================
+
+
+Green_Rainfed:
+------------------------
+# A tibble: 5 × 5
+  Water_Type    WF_Crop           total_wf_km3 n_countries  rank
+  <chr>         <chr>                    <dbl>       <int> <int>
+1 Green_Rainfed Temperate Cereals        4894.         124     1
+2 Green_Rainfed Maize                    3603.         166     2
+3 Green_Rainfed Soyabean                 2065.         110     3
+4 Green_Rainfed Tropical Cereals         1561.         134     4
+5 Green_Rainfed Rice                     1395.         137     5
+
+
+Blue_Irrigated:
+------------------------
+# A tibble: 5 × 5
+  Water_Type     WF_Crop           total_wf_km3 n_countries  rank
+  <chr>          <chr>                    <dbl>       <int> <int>
+1 Blue_Irrigated Temperate Cereals        2080.         124     1
+2 Blue_Irrigated Rice                     1289.         137     2
+3 Blue_Irrigated Maize                     575.         166     3
+4 Blue_Irrigated Pulses                    433.         138     4
+5 Blue_Irrigated Tropical Cereals          313.         134     5
+
+
+Green_Irrigated:
+------------------------
+# A tibble: 5 × 5
+  Water_Type      WF_Crop           total_wf_km3 n_countries  rank
+  <chr>           <chr>                    <dbl>       <int> <int>
+1 Green_Irrigated Rice                     1047.         137     1
+2 Green_Irrigated Temperate Cereals         899.         124     2
+3 Green_Irrigated Maize                     401.         166     3
+4 Green_Irrigated Pulses                    220.         138     4
+5 Green_Irrigated Soyabean                  188.         110     5
+

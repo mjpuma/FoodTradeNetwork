@@ -1,0 +1,6 @@
+cropid,cropname,primary(1)_secondary(2)_feed(3),Edible_(1 yes)_(0isno)_(2isnonnutritinoal),ProductionL,TradeL,FBS ID,FBS name,group,kcal/ton,Protein(g/ton),Fat(g/ton),Group,Groupnum
+125,Cassava,1,1,1,1,9999,Cassava,NA,1090000,9000,2000,NA,NA
+126,Flour of Cassava,2,1,1,1,9999,Flour of Cassava,NA,3380000,15000,6000,NA,NA
+127,Tapioca of Cassava,2,1,1,1,9999,Tapioca of Cassava,NA,3620000,5000,3000,NA,NA
+128,Cassava Dried,2,1,1,1,9999,Cassava Dried,NA,2120000,28000,7000,NA,NA
+129,Cassava Starch,2,1,1,1,9999,Cassava Starch,NA,3620000,5000,3000,NA,NA

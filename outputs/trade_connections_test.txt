@@ -1,0 +1,27 @@
+==============================================
+Trade Connection Analysis - test 
+==============================================
+
+Ranked by Number of Connections:
+------------------------
+# A tibble: 12 × 5
+   WF_Crop         n_traders n_connections total_volume_Mt avg_trade_size_Mt
+   <chr>               <int>         <int>           <dbl>             <dbl>
+ 1 Sugar                 146           597           3975.             0.689
+ 2 Tropical Roots        192          1509          18099.             0.642
+ 3 Rapeseed              155          1611        1088500.            30.8  
+ 4 Rice                  198          1765         152252.             6.40 
+ 5 Tropical Cerea…       193          2046         517112.            10.3  
+ 6 Groundnut             196          2073         129784.             3.45 
+ 7 Soyabean              196          2660        6225971.           122.   
+ 8 Sunflower             193          2837         284995.             4.17 
+ 9 Temperate Roots       201          4443         758646.             7.23 
+10 Maize                 200          4816        8069149.            71.9  
+11 Temperate Cere…       199          4846       12309207.            65.2  
+12 Pulses                200          6228         574924.             2.19 
+
+Summary Statistics:
+------------------------
+Average connections per crop: 2952.583 
+Most connected crop: Pulses 
+Least connected crop: Sugar 

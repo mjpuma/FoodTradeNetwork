@@ -1,0 +1,28 @@
+==============================================
+China's Virtual Water Trade - test 
+==============================================
+
+Top 10 Net Trade Flows (km³/year):
+------------------------
+# A tibble: 10 × 6
+    year Water_Type    WF_Crop  imports_km3 exports_km3 net_trade_km3
+   <dbl> <chr>         <chr>          <dbl>       <dbl>         <dbl>
+ 1  2020 Green_Rainfed Soyabean       103.       0.0558         103. 
+ 2  2019 Green_Rainfed Soyabean        98.4      0.0844          98.3
+ 3  2016 Green_Rainfed Soyabean        89.8      0.115           89.7
+ 4  2018 Green_Rainfed Soyabean        87.5      0.114           87.4
+ 5  2017 Green_Rainfed Soyabean        86.6      0.0883          86.5
+ 6  2015 Green_Rainfed Soyabean        81.4      0.141           81.3
+ 7  2014 Green_Rainfed Soyabean        76.0      0.183           75.8
+ 8  2013 Green_Rainfed Soyabean        73.2      0.188           73.1
+ 9  2012 Green_Rainfed Soyabean        72.2      0.288           71.9
+10  2011 Green_Rainfed Soyabean        59.9      0.166           59.7
+
+Summary by Water Type:
+------------------------
+# A tibble: 3 × 4
+  Water_Type      total_imports total_exports net_trade
+  <chr>                   <dbl>         <dbl>     <dbl>
+1 Blue_Irrigated           77.3          48.8      28.5
+2 Green_Irrigated          71.8          25.4      46.5
+3 Green_Rainfed          1546.           67.7    1478. 

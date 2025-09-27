@@ -1,0 +1,37 @@
+"WF_Crop","Water_Type","total_virtual_water_km3","trade_volume_mt","n_suppliers"
+"Temperate Cereals","Green_Rainfed",50.8139387387534,54.15086475,36
+"Maize","Green_Rainfed",10.9523535300767,19.19958637,28
+"Soyabean","Green_Rainfed",3.16218789681293,3.13271913,20
+"Temperate Cereals","Blue_Irrigated",0.636215723038294,48.15262308,33
+"Temperate Cereals","Green_Irrigated",0.488114988289649,48.15262308,33
+"Maize","Blue_Irrigated",0.430326672263564,19.1985223,27
+"Pulses","Green_Rainfed",0.365816487291635,0.22896256,42
+"Maize","Green_Irrigated",0.359642309520726,19.1985223,27
+"Pulses","Blue_Irrigated",0.337352359503713,0.22896256,42
+"Soyabean","Green_Irrigated",0.175485390630528,3.13271908,19
+"Tropical Cereals","Blue_Irrigated",0.142599404334363,0.10466342,16
+"Soyabean","Blue_Irrigated",0.136797122041345,3.13271908,19
+"Tropical Cereals","Green_Rainfed",0.118232810201945,0.10466342,16
+"Pulses","Green_Irrigated",0.0708810723918817,0.22896256,42
+"Sunflower","Green_Rainfed",0.0633986993714744,0.06931154,18
+"Tropical Cereals","Green_Irrigated",0.0577282850183905,0.10466342,16
+"Sunflower","Blue_Irrigated",0.0263743736258707,0.06931044,17
+"Temperate Roots","Green_Rainfed",0.0162666878713092,0.32838894,31
+"Groundnut","Green_Rainfed",0.0161128411852392,0.0234226285714286,8
+"Groundnut","Blue_Irrigated",0.0133529381609617,0.0234226285714286,8
+"Tropical Roots","Blue_Irrigated",0.0116856531911974,0.04051524,18
+"Sunflower","Green_Irrigated",0.0113503273457133,0.06931044,17
+"Temperate Roots","Blue_Irrigated",0.00871327005526677,0.32725608,29
+"Groundnut","Green_Irrigated",0.00765160977651705,0.0234226285714286,8
+"Temperate Roots","Green_Irrigated",0.00335369308191651,0.32725608,29
+"Rice","Blue_Irrigated",0.00119166053297104,0.00096661,6
+"Tropical Roots","Green_Irrigated",0.00100986828467948,0.04051524,18
+"Sugar","Blue_Irrigated",0.000929190778831935,0.01170062,7
+"Rice","Green_Irrigated",0.000268851499722095,0.00096661,6
+"Tropical Roots","Green_Rainfed",0.000120854105685699,0.04051524,18
+"Rice","Green_Rainfed",0.000104471577397196,0.00096661,6
+"Sugar","Green_Irrigated",5.65576226335307e-05,0.01170062,7
+"Sugar","Green_Rainfed",1.79286824254534e-06,0.01170062,7
+"Rapeseed","Green_Rainfed",1.27196891993424e-07,2.2e-07,2
+"Rapeseed","Blue_Irrigated",1.00603363632242e-08,2.2e-07,2
+"Rapeseed","Green_Irrigated",9.47236699135044e-09,2.2e-07,2

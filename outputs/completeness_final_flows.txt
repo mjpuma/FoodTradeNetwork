@@ -1,0 +1,15 @@
+Data Completeness Report - final_flows 
+================================
+
+Total Rows: 968532 
+Total Columns: 20 
+
+Key Column Status:
+-----------------
+ReporterISO3: 0 NAs (0.0%)
+PartnerISO3: 0 NAs (0.0%)
+WF_Crop: 0 NAs (0.0%)
+Water_Type: 0 NAs (0.0%)
+value_primary: 0 NAs (0.0%)
+WF_L_per_kg: 0 NAs (0.0%)
+virtual_water_m3: 0 NAs (0.0%)

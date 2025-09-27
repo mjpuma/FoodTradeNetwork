@@ -1,0 +1,52 @@
+Comprehensive Validation Report
+==============================
+
+1. Unit Validation
+----------------
+[1] ReporterISO3     PartnerISO3      WF_Crop          Water_Type      
+[5] year             virtual_water_m3
+<0 rows> (or 0-length row.names)
+
+2. Country Mapping
+----------------
+$unmapped_reporters
+character(0)
+
+$unmapped_partners
+character(0)
+
+$iso3_comparison
+  n_unique_reporters n_unique_partners n_matching
+1                167               201        167
+
+
+3. Data Completeness
+------------------
+$na_summary
+                   reporter                     partner 
+                          0                           0 
+                     cropid                     element 
+                          0                           0 
+                       year                       value 
+                          0                           0 
+                    WF_Crop                ReporterISO3 
+                          0                           0 
+                PartnerISO3               FAO Commodity 
+                          0                           0 
+      MIRCA Crop Categories             Extraction_Rate 
+                          0                           0 
+              value_primary                  Water_Type 
+                          0                           0 
+WaterFootprint_km3_per_year               Production_kg 
+                          0                           0 
+                WF_L_per_kg              trade_fraction 
+                          0                           0 
+           virtual_water_m3           virtual_water_km3 
+                          0                           0 
+
+$key_cols_status
+  ReporterISO3 PartnerISO3 WF_Crop Water_Type value_primary WF_L_per_kg
+1            0           0       0          0             0           0
+  virtual_water_m3
+1                0
+

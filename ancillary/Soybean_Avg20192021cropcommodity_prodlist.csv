@@ -1,0 +1,13 @@
+cropid,cropname,primary(1)_secondary(2)_feed(3),Edible_(1 yes)_(0isno)_(2isnonnutritinoal),ProductionL,TradeL,FBS ID,FBS name,group,kcal/ton,Protein(g/ton),Fat(g/ton),Group,Groupnum
+236,Soybeans,1,1,1,1,9999,Soybeans,NA,3350000,380000,180000,NA,NA
+237,Soybean oil,2,1,0,1,9999,Soybean oil,NA,8840000,0,1000000,NA,NA
+238,Cake of Soybeans,2,1,0,1,9999,Cake of Soybeans,NA,2610000,460000,50000,NA,NA
+239,Soya Sauce,2,1,0,1,9999,Soya Sauce,NA,560000,120000,5000,NA,NA
+240,Soya Paste,2,1,0,1,9999,Soya Paste,NA,1140000,120000,58000,NA,NA
+241,Soya Curd,2,1,0,1,9999,Soya Curd,NA,580000,63000,31000,NA,NA
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,

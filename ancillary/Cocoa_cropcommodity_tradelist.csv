@@ -1,0 +1,7 @@
+cropid,cropname,primary(1)_secondary(2)_feed(3),Edible_(1 yes)_(0isno)_(2isnonnutritinoal),ProductionL,TradeL,FBS ID,FBS name,group,kcal/ton,Protein(g/ton),Fat(g/ton),Group,Groupnum
+661,Cocoa beans,1,1,1,1,9999,Cocoa beans,NA,4140000,40000,400000,NA,NA
+662,Cocoa paste/liquor,2,1,1,1,9999,Cocoa paste/liquor,NA,4720000,17000,440000,NA,NA
+663,Cocoa husks/shells,2,1,1,1,9999,Cocoa husks/shells,NA,0,0,0,NA,NA
+664,Cocoa butter,2,1,1,1,9999,Cocoa butter,NA,7110000,0,850000,NA,NA
+665,Cocoapowder and cake,2,1,1,1,9999,Cocoapowder and cake,NA,2610000,173000,190000,NA,NA
+666,Chocolate products,2,1,1,1,9999,Chocolate products,NA,3930000,42000,357000,NA,NA

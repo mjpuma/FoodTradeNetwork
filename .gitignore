@@ -1,0 +1,32 @@
+# Large data files
+*.zip
+inputs/Trade_DetailedTradeMatrix_E_All_Data_(Normalized).csv
+data_raw/Production_Crops_Livestock_E_All_Data_*.zip
+
+# R/RStudio files
+.RData
+.RDataTmp*
+.Rhistory
+.Rproj.user/
+*.Rproj
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Log files
+outputs/logs/
+*.log
+
+# Large output files  
+outputs/virtual_water_flows_*.csv
+outputs/vwf_*.zip
+
+# Temporary files
+*~
+*.tmp
+*.temp
+
+# Python
+*.pyc
+__pycache__/

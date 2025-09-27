@@ -1,0 +1,37 @@
+"Water_Type","WF_Crop","total_wf_km3","n_countries","rank"
+"Green_Rainfed","Temperate Cereals",4588.70322231261,121,1
+"Green_Rainfed","Maize",3112.52552896408,159,2
+"Blue_Irrigated","Temperate Cereals",1849.36637280949,121,1
+"Green_Rainfed","Soyabean",1699.53937957181,98,3
+"Green_Rainfed","Tropical Cereals",1276.46051193562,125,4
+"Blue_Irrigated","Rice",1217.72412783841,119,2
+"Green_Rainfed","Rice",1151.40752653747,119,5
+"Green_Rainfed","Pulses",881.63540710554,135,6
+"Green_Irrigated","Rice",601.243845062326,119,1
+"Green_Irrigated","Temperate Cereals",543.668574133189,121,2
+"Green_Rainfed","Tropical Roots",516.214326461776,122,7
+"Blue_Irrigated","Maize",507.240476176875,159,3
+"Green_Rainfed","Temperate Roots",478.73913039276,148,8
+"Green_Rainfed","Sugar",453.362429068251,105,9
+"Green_Rainfed","Sunflower",421.344481034889,73,10
+"Blue_Irrigated","Pulses",383.120290968603,135,4
+"Green_Rainfed","Groundnut",326.294795851037,114,11
+"Green_Rainfed","Rapeseed",303.219724013538,62,12
+"Blue_Irrigated","Tropical Cereals",267.037903481606,125,5
+"Green_Irrigated","Maize",244.740946269016,159,3
+"Blue_Irrigated","Sugar",185.749166222091,105,6
+"Blue_Irrigated","Rapeseed",172.595162846264,62,7
+"Blue_Irrigated","Soyabean",164.134255377789,98,8
+"Green_Irrigated","Pulses",124.628231391671,135,4
+"Green_Irrigated","Soyabean",120.727315090211,98,5
+"Blue_Irrigated","Temperate Roots",96.568179922873,148,9
+"Blue_Irrigated","Groundnut",91.5717986883495,114,10
+"Green_Irrigated","Tropical Cereals",84.8087031336361,125,6
+"Green_Irrigated","Rapeseed",68.4579165951331,62,7
+"Green_Irrigated","Sugar",63.6363984038588,105,8
+"Green_Irrigated","Groundnut",41.9843788610341,114,9
+"Green_Irrigated","Temperate Roots",37.4230019088793,148,10
+"Blue_Irrigated","Sunflower",34.7942666206356,73,11
+"Blue_Irrigated","Tropical Roots",32.3350835384094,122,12
+"Green_Irrigated","Tropical Roots",22.1682124303864,122,11
+"Green_Irrigated","Sunflower",13.5995284184807,73,12
