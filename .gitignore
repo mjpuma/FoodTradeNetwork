@@ -31,3 +31,4 @@ outputs/vwf_*.zip
 *.pyc
 __pycache__/
 inputs/Trade_DetailedTradeMatrix_E_All_Data_(Normalized).csv
+inputs/Trade_DetailedTradeMatrix_E_All_Data_(Normalized).csv
