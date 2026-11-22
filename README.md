@@ -1,4 +1,16 @@
-# Virtual Water Footprint Analysis
+# Virtual Water Trade
+
+An R-based research framework for analyzing virtual water embedded in international trade in agricultural commodities.
+
+## Related research
+
+This project aligns with the research questions and methods explored in:
+
+Dalin, C., Wada, Y., Kastner, T., and Puma, M. J. (2017). **Groundwater depletion embedded in international food trade.** *Nature*, 543, 700–704. [https://doi.org/10.1038/nature21403](https://doi.org/10.1038/nature21403).
+
+That study linked international food trade to non-renewable groundwater depletion in producing regions. The present repository examines related virtual-water trade flows and water-resource dependencies. It should not be assumed to reproduce the exact analyses or code used for the published paper.
+
+
 
 A comprehensive R-based framework for analyzing global virtual water trade flows in agricultural commodities, with applications for climate risk assessment and food security analysis.
 
