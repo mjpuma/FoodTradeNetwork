@@ -1,3 +1,5 @@
+<p align="center"><img src="assets/virtual_water_trade_logo.webp" width="360" alt="Virtual Water Trade research software logo"></p>
+
 # Virtual Water Trade
 
 An R-based research framework for analyzing virtual water embedded in international trade in agricultural commodities.
